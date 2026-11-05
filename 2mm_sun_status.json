@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "min_version": "3.5.0",
+  "latest_version": "3.5.0",
+  "download_url": "https://여기에-새버전-다운로드-주소",
+  "message": "새 버전이 나왔습니다. 다운로드 후 확장 관리자에서 기존 버전을 제거하고 다시 설치하세요.",
+  "allow_all": false,
+  "allow": [
+    { "id": "0D69-3CD9-ECAB-7C6F", "memo": "밀-회사PC" }
+  ]
+}
